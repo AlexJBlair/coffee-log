@@ -1,0 +1,21 @@
+.coffee-search-button{
+	border-radius: 17px;
+	align-items: flex-start;
+	padding: 6px;
+	text-align: center;
+	background-color: burlywood;
+	color: black;
+}
+
+.coffee-search-textbox{
+	border-radius: 25px;
+	text-align: center;
+	margin:1rem;
+	padding: 13px;
+}
+
+.coffee-search-form{
+	align-items: flex-start;
+	padding: 2rem;
+	margin: auto;
+}

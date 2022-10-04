@@ -11,9 +11,7 @@ class TitleHeader extends Component {
           src={process.env.PUBLIC_URL + '/coffee-bean.png'}
         />
         <h1 className='title-component-header'>Coffee Log</h1>
-        <h3 className='title-component-sub-header'>
-          Save some coffee, or find one you liked!
-        </h3>
+        <h3 className='title-component-sub-header'>Give me good coffee!</h3>
       </div>
     );
   }
