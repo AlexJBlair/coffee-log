@@ -3,6 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import TitleHeader from './components/TitleHeader';
 import LogBoxInput from './components/LogBox';
+import Footer from './components/Footer';
 class App extends Component {
   state = {};
   render() {
@@ -11,6 +12,9 @@ class App extends Component {
         <TitleHeader />
         <div>
           <LogBoxInput />
+        </div>
+        <div>
+          <Footer />
         </div>
       </div>
     );
