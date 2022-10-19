@@ -11,14 +11,14 @@ class LogBoxInput extends Component {
             className='coffee-search-textbox'
             type='text'
             name='coffee-search'
-            placeholder='The best coffee beans!'
+            placeholder='Bean Search'
             required
           />
           <div>
             <button
               type='submit'
               className='coffee-search-button'>
-              Grind those beans
+              Find me some beans!
             </button>
           </div>
         </form>

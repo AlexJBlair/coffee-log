@@ -1,0 +1,53 @@
+.coffee-entry-form-label{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 2rem;
+	font-family: sans-serif;
+	font-weight: 600;
+}
+.coffee-form-name{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+}
+.coffee-form-order-date{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+}
+.coffee-form-roast{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+}
+.coffee-form-rating{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+}
+.coffee-form-origin-country{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+}
+.coffee-form-bought-from{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+}
+.coffee-form-submit{
+	margin: 10px;
+	padding: 4px;
+	border-radius: 20px;
+	text-align: center;
+	background-color: burlywood;
+	color: black;
+}
